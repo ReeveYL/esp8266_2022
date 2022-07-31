@@ -1,10 +1,4 @@
-/*******************************************************************************
- * Functions for ThingSpeak
- *
- * Company: Cytron Technologies Sdn Bhd
- * Website: http://www.cytron.io
- * Email:   support@cytron.io
- *******************************************************************************/
+//* Functions for ThingSpeak
 
 // ThingSpeak API url.
 const THINGSPEAK_API_URL = "api.thingspeak.com"
