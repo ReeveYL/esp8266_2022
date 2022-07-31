@@ -1,4 +1,4 @@
- * Functions for Blynk
+// * Functions for Blynk
 
 // Blynk API url.
 const BLYNK_API_URL = "blynk.cloud"
