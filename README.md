@@ -1,7 +1,6 @@
 # ESP8266 AT Mode Extension for Microsoft MakeCode
 
 This library provides the driver for ESP8266 Module.
-This extension is tested with Espressif ESP-AT Firmware v2.2.0.
 
 ## Initialization (Selecting UART Pins and Baudrate)
 
