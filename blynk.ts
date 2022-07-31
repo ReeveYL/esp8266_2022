@@ -1,13 +1,7 @@
-/*******************************************************************************
  * Functions for Blynk
- *
- * Company: Cytron Technologies Sdn Bhd
- * Website: http://www.cytron.io
- * Email:   support@cytron.io
- *******************************************************************************/
 
 // Blynk API url.
-const BLYNK_API_URL = "blynk-cloud.com"
+const BLYNK_API_URL = "blynk.cloud"
 
 namespace esp8266 {
     // Flag to indicate whether the blynk data was updated successfully.
