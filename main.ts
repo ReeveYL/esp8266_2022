@@ -1,4 +1,4 @@
-/ * MakeCode extension for ESP8266 Wifi module.
+// * MakeCode extension for ESP8266 Wifi module.
 
 /**
  * Blocks for ESP8266 WiFi module.
