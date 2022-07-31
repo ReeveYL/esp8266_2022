@@ -1,7 +1,7 @@
 // * Functions for Blynk
 
 // Blynk API url.
-const BLYNK_API_URL = "blynk.cloud"
+const BLYNK_API_URL = "sgp1.blynk.cloud"
 
 namespace esp8266 {
     // Flag to indicate whether the blynk data was updated successfully.
